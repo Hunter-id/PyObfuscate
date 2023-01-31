@@ -11,4 +11,4 @@ $ cd PyObfuscate
 $ python encode_enc.py
 
 ### Screenshot
-<img src="https://github.com/Yayan-XD/Cr4ck/blob/main/img/IMG_20210304_060211.jpg" />
+<img src="https://github.com/Hunter-id/PyObfuscate/blob/main/Screenshot_2023-01-31-20-05-17-772_com.termux.jpg" />
